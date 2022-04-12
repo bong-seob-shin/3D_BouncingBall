@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\bong1\OneDrive\바탕 화면\2016184001 강진주2016184024 신봉섭 (1)\CGTermProject\GL.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory

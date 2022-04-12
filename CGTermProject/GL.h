@@ -1,0 +1,13 @@
+#pragma once
+#define _CRT_SECURE_NO_WARNINGS
+#include <GL/glew.h>
+#include <GL/freeglut.h> 
+#include <GL/freeglut_ext.h>
+#include <GL/glm/glm.hpp>
+#include <GL/glm/ext.hpp> 
+#include <GL/glm/gtc/matrix_transform.hpp>
+#include <math.h>
+#include <iostream>
+#include <time.h>
+#pragma comment(lib,"winmm.lib")
+#include <mmsystem.h>
