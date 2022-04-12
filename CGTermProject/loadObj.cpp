@@ -12,12 +12,12 @@ std::vector< glm::vec3 > outvertex, outnormal;
 std::vector< glm::vec2 > outuv;
 
 int loadObj(const char* filename);
-	float sumX=0.0, sumY=0.0, sumZ = 0.0;
-	float aveX, aveY, aveZ;
-	float scaleX, scaleY, scaleZ;
-	float minX= -20.0, minY = -20.0, minZ = -20.0;
-	float maxX = 20.0, maxY = 20.0, maxZ = 20.0;
-	float scaleAll;
+float sumX=0.0, sumY=0.0, sumZ = 0.0;
+float aveX, aveY, aveZ;
+float scaleX, scaleY, scaleZ;
+float minX= -20.0, minY = -20.0, minZ = -20.0;
+float maxX = 20.0, maxY = 20.0, maxZ = 20.0;
+float scaleAll;
 
 int loadObj(const char* filename)
 {
